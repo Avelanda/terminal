@@ -1,6 +1,7 @@
 /*
  * Copyright © Microsoft Corporation.
  * Copyright © 2025 Avelanda. 
+ * All rights reserved.
  * Licensed under the MIT license.
  *
  * Reserved console space.
